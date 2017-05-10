@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message MessageB {
+	string id = 1;
+	string name = 2;
+	string art_url = 3;
+}
+
+message MessageC {
+	string id = 1;
+	string name = 2;
+	string art_url = 3;
+}
